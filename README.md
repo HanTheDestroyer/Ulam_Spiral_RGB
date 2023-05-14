@@ -1,5 +1,5 @@
 # Ulam_Spiral_RGB
-Ulam Spiral Rendering
+Ulam Spiral Rendering. Footage is sped up by 100% for smaller file size.
 
 Run simulator directly.
 
